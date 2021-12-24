@@ -1,4 +1,4 @@
-# [Udacity](http://https://udacity-landing-page-dec2.netlify.app "Udacity") 💫
+# [Udacity](https://udacity-landing-page-dec21.netlify.app "Udacity") 💫
 
 # Responsive Landing Page Project
 
