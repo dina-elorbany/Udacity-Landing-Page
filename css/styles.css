@@ -64,7 +64,7 @@ p {
 /* ---- Layout Rules ---- */
 main {
   margin: 10vh 1em 10vh;
-  padding-top: 6rem
+  padding-top: 6rem;
 }
 
 .main-hero {
@@ -266,7 +266,6 @@ section.your-active-class {
   );
   display: flex;
   align-content: center;
-  height: 100vh;
 }
 
 section.your-active-class .landing__container::before {
